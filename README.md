@@ -1,2 +1,3 @@
 # pop-it
-POP-IT website for promoteing toy products.
+POP-IT website for promoting toy products.
+This website is built by pure CSS and Javascript.
